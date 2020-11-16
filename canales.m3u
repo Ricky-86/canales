@@ -63,11 +63,11 @@ http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/57867.ts
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/10985.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 SLAM DUNK" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cd22575b-40cf-4180-abb1-035b8e3292e7/d7whjie-d1da1cfc-0628-41f5-9ae3-1e2ab29a83c5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvY2QyMjU3NWItNDBjZi00MTgwLWFiYjEtMDM1YjhlMzI5MmU3XC9kN3doamllLWQxZGExY2ZjLTA2MjgtNDFmNS05YWUzLTFlMmFiMjlhODNjNS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.EAE9cOQ0m_xIj_-_UMi9ZOb5y1HkQI8YD0Jj42IkGvI" group-title="24/7",24/7 SLAM DUNK
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/54750.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: EL TRECE*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="ARGENTINA",AR: EL TRECE*
+#EXTINF:-1 tvg-id="" tvg-name="AR: EL TRECE*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="ENTRETENCIÓN",AR: EL TRECE*
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/15768.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",AR: TELEFE
+#EXTINF:-1 tvg-id="" tvg-name="AR: TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ENTRETENCIÓN",AR: TELEFE
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/3744.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: TELEFE*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",AR: TELEFE*
+#EXTINF:-1 tvg-id="" tvg-name="AR: TELEFE*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ENTRETENCIÓN",AR: TELEFE*
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/3745.ts
 #EXTINF:-1 tvg-id="" tvg-name="B3IN SP0RTS ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="DEPORTES",B3IN SP0RTS ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/14776.ts
@@ -95,7 +95,6 @@ http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/14775.ts
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/16688.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="http://tv.iptv5latino.cl:8000/images/c885f95378960ce5130d325335d94edf.png" group-title="24/7 PREMIUM",Bob Esponja
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/60527.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="BR: ESPN " tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/espn-brasil-2-logo.png" group-title="DEPORTES",BR: ESPN 
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/15735.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 1" tvg-logo="https://i.ytimg.com/vi/cOA69YxcZSE/maxresdefault.jpg" group-title="DEPORTES",BR: FOX SPORTS 1
@@ -152,7 +151,7 @@ http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/899.ts
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/54997.ts
 #EXTINF:-1 tvg-id="chv.cl" tvg-name="CH: CHILEVISION ⁽ᴹ⁾" tvg-logo="https://www.chilevision.cl/chilevision/site/artic/20191108/imag/foto_0000000120191108131036/chv_logo.png" group-title="CHILE",CH: CHILEVISION ⁽ᴹ⁾
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/34769.ts
-#EXTINF:-1 tvg-id="cinecanal.cl" tvg-name="Cinecanal ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="LATINOS SD",Cinecanal ⁽ˢᵈ⁾
+#EXTINF:-1 tvg-id="cinecanal.cl" tvg-name="Cinecanal ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE",Cinecanal ⁽ˢᵈ⁾
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/55402.ts
 #EXTINF:-1 tvg-id="cinecanal.co" tvg-name="CINECANAL ⁽ᴴᴰ⁾" tvg-logo="https://fotos.subefotos.com/014da2aa35f7f21d8815dd856f9c6298o.png" group-title="CINE",CINECANAL ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/1726.ts
@@ -162,19 +161,19 @@ http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/17334.ts
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/55013.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINELATINO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="CINE",CINELATINO 2
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/55012.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Horror Classics ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/5e890fc0df7e071483838d5fbd602825.png" group-title="24/7 PREMIUM",Cinema Horror Classics ⁽ᴴᴰ⁾
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Horror Classics ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/5e890fc0df7e071483838d5fbd602825.png" group-title="CINE",Cinema Horror Classics ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/60480.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Horror ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/35a4f71048c8b5242624062ff790b36c.png" group-title="24/7 PREMIUM",Cinema Horror ⁽ᴴᴰ⁾
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Horror ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/35a4f71048c8b5242624062ff790b36c.png" group-title="CINE",Cinema Horror ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/60481.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA HORRROR ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/5e890fc0df7e071483838d5fbd602825.png" group-title="PPV CINE",CINEMA HORRROR ⁽ᴴᴰ⁾
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA HORRROR ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/5e890fc0df7e071483838d5fbd602825.png" group-title="CINE",CINEMA HORRROR ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/57659.ts
 #EXTINF:-1 tvg-id="" tvg-name="COL: DTV SPORTS 2 " tvg-logo="https://www.thesportsdb.com/images/media/logo/DirecTV_Sports_2_Argentina.png" group-title="DEPORTES",COL: DTV SPORTS 2 
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/43363.ts
 #EXTINF:-1 tvg-id="" tvg-name="COL: WIN SPORTS" tvg-logo="https://www.winsports.co/assets/img/win/winsports-small_2017.png" group-title="DEPORTES",COL: WIN SPORTS
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/17769.ts
-#EXTINF:-1 tvg-id="" tvg-name="COL: WIN SPORTS+ " tvg-logo="https://www.winsports.co/assets/img/win/winsports-small_2017.png" group-title="COLOMBIA",COL: WIN SPORTS+ 
+#EXTINF:-1 tvg-id="" tvg-name="COL: WIN SPORTS+ " tvg-logo="https://www.winsports.co/assets/img/win/winsports-small_2017.png" group-title="DEPORTES",COL: WIN SPORTS+ 
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/17768.ts
-#EXTINF:-1 tvg-id="" tvg-name="CONTIVISION MUSICA" tvg-logo="https://lh3.googleusercontent.com/-wWvPNIeSDSw/Wn9lX-H2FWI/AAAAAAAAgwc/SsfCyM-wBWgDBxA5lU2NNkOOKUCfw_oiQCK8BGAs/s240/2018-02-10.png" group-title="CHILE REGIONALES",CONTIVISION MUSICA
+#EXTINF:-1 tvg-id="" tvg-name="CONTIVISION MUSICA" tvg-logo="https://lh3.googleusercontent.com/-wWvPNIeSDSw/Wn9lX-H2FWI/AAAAAAAAgwc/SsfCyM-wBWgDBxA5lU2NNkOOKUCfw_oiQCK8BGAs/s240/2018-02-10.png" group-title="CHILE",CONTIVISION MUSICA
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/2272.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cuentos de la Cripta" tvg-logo="http://tv.iptv5latino.cl:8000/images/8b0af36f26f1c664e9e42d3dab2d3058.png" group-title="24/7 PREMIUM",Cuentos de la Cripta
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/60530.ts
@@ -244,7 +243,7 @@ http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/61475.ts
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/61669.ts
 #EXTINF:-1 tvg-id="" tvg-name="ECU: ECDF ⁽ˢᵈ⁾ (sólo eventos)" tvg-logo="https://play-lh.googleusercontent.com/Enik6q6-NWSruTAvqCdTCJKXhak9FKAXpnC1BjFph4deugU1LVxM4IsZCkRdnX9Ss40" group-title="DEPORTES",ECU: ECDF ⁽ˢᵈ⁾ (sólo eventos)
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/61670.ts
-#EXTINF:-1 tvg-id="" tvg-name="ECU: ECDF ⁽ᴴᴰ⁾ (sólo eventos)" tvg-logo="https://play-lh.googleusercontent.com/Enik6q6-NWSruTAvqCdTCJKXhak9FKAXpnC1BjFph4deugU1LVxM4IsZCkRdnX9Ss40" group-title="ECUADOR",ECU: ECDF ⁽ᴴᴰ⁾ (sólo eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ECU: ECDF ⁽ᴴᴰ⁾ (sólo eventos)" tvg-logo="https://play-lh.googleusercontent.com/Enik6q6-NWSruTAvqCdTCJKXhak9FKAXpnC1BjFph4deugU1LVxM4IsZCkRdnX9Ss40" group-title="DEPORTES",ECU: ECDF ⁽ᴴᴰ⁾ (sólo eventos)
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/61668.ts
 #EXTINF:-1 tvg-id="" tvg-name="ECU: ECDF ⁽ᵃ⁾" tvg-logo="https://play-lh.googleusercontent.com/Enik6q6-NWSruTAvqCdTCJKXhak9FKAXpnC1BjFph4deugU1LVxM4IsZCkRdnX9Ss40" group-title="DEPORTES",ECU: ECDF ⁽ᵃ⁾
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/61677.ts
@@ -284,7 +283,7 @@ http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/27449.ts
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/3649.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="DEPORTES",ES: MOVISTAR DEPORTES 1
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/3657.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: RTVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1200px-Logo_RTVE.svg.png" group-title="DEPORTES",ES: RTVE
+#EXTINF:-1 tvg-id="" tvg-name="ES: RTVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1200px-Logo_RTVE.svg.png" group-title="ENTRETENCIÓN",ES: RTVE
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/3680.ts
 #EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN" tvg-logo="https://jmsearch.com/wp-content/uploads/2016/03/ESPN.png" group-title="DEPORTES",ESPN
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/54125.ts
@@ -334,7 +333,7 @@ http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/61490.ts
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/14869.ts
 #EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 SUR ⁽ᴴᴰ⁾" tvg-logo="https://logodix.com/logo/313657.png" group-title="DEPORTES",ESPN 2 SUR ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/609.ts
-#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ESPN 3" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="LATINOS SD",ESPN 3
+#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ESPN 3" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="DEPORTES",ESPN 3
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/55414.ts
 #EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 (méxico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 (méxico)
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/15766.ts
@@ -368,7 +367,6 @@ http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/53539.ts
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/1738.ts
 #EXTINF:-1 tvg-id="foxaction.la" tvg-name="Fox Channel ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/FOX_wordmark-black.svg/1200px-FOX_wordmark-black.svg.png" group-title="CINE",Fox Channel ⁽ˢᵈ⁾
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/55416.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="FOX SOCCER PLUS" tvg-logo="https://www.verizon.com/content/dam/verizon/personal/learn-images/MLP/ec/sports/foxsoc/img-fsp-logo-sm.png" group-title="DEPORTES",FOX SOCCER PLUS
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/43357.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS (argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS (argentina)
@@ -443,7 +441,7 @@ http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/61614.ts
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/54996.ts
 #EXTINF:-1 tvg-id="" tvg-name="H2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="ENTRETENCIÓN",H2 
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/9958.ts
-#EXTINF:-1 tvg-id="history.co" tvg-name="H2 ⁽ˢᵈ⁾" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/5/59/H2_logo_2019.png/revision/latest/scale-to-width-down/340?cb=20191211180911&path-prefix=es" group-title="LATINOS SD",H2 ⁽ˢᵈ⁾
+#EXTINF:-1 tvg-id="history.co" tvg-name="H2 ⁽ˢᵈ⁾" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/5/59/H2_logo_2019.png/revision/latest/scale-to-width-down/340?cb=20191211180911&path-prefix=es" group-title="ENTRETENCIÓN",H2 ⁽ˢᵈ⁾
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/55429.ts
 #EXTINF:-1 tvg-id="history.co" tvg-name="H2 ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="ENTRETENCIÓN",H2 ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/15537.ts
@@ -530,9 +528,9 @@ http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/799.ts
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/3554.ts
 #EXTINF:-1 tvg-id="" tvg-name="Musica Urbana" tvg-logo="http://controlam.com/Logos/AMETVB.jpg" group-title="MÚSICA",Musica Urbana
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/3529.ts
-#EXTINF:-1 tvg-id="nick.co" tvg-name="NICK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="INFANTIL",NICK
+#EXTINF:-1 tvg-id="nick.co" tvg-name="NICK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="24/7",NICK
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/42430.ts
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://www.freepnglogos.com/uploads/nickelodeon-logo-hd-png-5.png" group-title="INFANTIL",NICKELODEON
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://www.freepnglogos.com/uploads/nickelodeon-logo-hd-png-5.png" group-title="24/7",NICKELODEON
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/727.ts
 #EXTINF:-1 tvg-id="" tvg-name="PANDERO MUSIC" tvg-logo="" group-title="MÚSICA",PANDERO MUSIC
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/2356.ts
@@ -540,11 +538,11 @@ http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/2356.ts
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/2357.ts
 #EXTINF:-1 tvg-id="" tvg-name="PE: DTV SPORTS" tvg-logo="http://tv.iptv5latino.cl:8000/images/706bde645b1385e141c934c6cfe3c429.png" group-title="DEPORTES",PE: DTV SPORTS
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/39653.ts
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="PE: GOL PERU" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/340?cb=20200417023402&path-prefix=es" group-title="PERÚ",PE: GOL PERU
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="PE: GOL PERU" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/340?cb=20200417023402&path-prefix=es" group-title="DEPORTES",PE: GOL PERU
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/3437.ts
-#EXTINF:-1 tvg-id="" tvg-name="PE: GOL PERU ⁽ˢᵈ⁾" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/340?cb=20200417023402&path-prefix=es" group-title="PERÚ",PE: GOL PERU ⁽ˢᵈ⁾
+#EXTINF:-1 tvg-id="" tvg-name="PE: GOL PERU ⁽ˢᵈ⁾" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/340?cb=20200417023402&path-prefix=es" group-title="DEPORTES",PE: GOL PERU ⁽ˢᵈ⁾
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/25086.ts
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="PE: Movistar Deportes Peru HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_05/large.MovistarDeportes-Peru.png.03f1274791dec8bd17af84b5d853bfde.png" group-title="PERÚ",PE: Movistar Deportes Peru HD
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="PE: Movistar Deportes Peru HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_05/large.MovistarDeportes-Peru.png.03f1274791dec8bd17af84b5d853bfde.png" group-title="DEPORTES",PE: Movistar Deportes Peru HD
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/54954.ts
 #EXTINF:-1 tvg-id="" tvg-name="Pop Latino" tvg-logo="http://controlam.com/Logos/AMETVB.jpg" group-title="MÚSICA",Pop Latino
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/3533.ts
@@ -552,7 +550,6 @@ http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/3533.ts
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/2273.ts
 #EXTINF:-1 tvg-id="" tvg-name="PORTAL FOXMIX" tvg-logo="https://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png" group-title="MÚSICA",PORTAL FOXMIX
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/3553.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="DEPORTES",PREMIERE 2
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/54341.ts
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-5.png" group-title="DEPORTES",PREMIERE 3
@@ -675,4 +672,6 @@ http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/57459.ts
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/57312.ts
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS+ ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/WinSportsM%C3%A1s.png" group-title="DEPORTES",WIN SPORTS+ ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8000/live/quinta1mes480/2Yd52qNYW3/57631.ts
+
+
 
